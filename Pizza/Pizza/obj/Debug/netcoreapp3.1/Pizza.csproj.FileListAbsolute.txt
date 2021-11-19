@@ -1,0 +1,14 @@
+C:\Users\anast\source\repos\Pizza\Pizza\obj\Debug\netcoreapp3.1\Pizza.csproj.AssemblyReference.cache
+C:\Users\anast\source\repos\Pizza\Pizza\obj\Debug\netcoreapp3.1\Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anast\source\repos\Pizza\Pizza\obj\Debug\netcoreapp3.1\Pizza.AssemblyInfoInputs.cache
+C:\Users\anast\source\repos\Pizza\Pizza\obj\Debug\netcoreapp3.1\Pizza.AssemblyInfo.cs
+C:\Users\anast\source\repos\Pizza\Pizza\obj\Debug\netcoreapp3.1\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\anast\source\repos\Pizza\Pizza\bin\Debug\netcoreapp3.1\Pizza.exe
+C:\Users\anast\source\repos\Pizza\Pizza\bin\Debug\netcoreapp3.1\Pizza.deps.json
+C:\Users\anast\source\repos\Pizza\Pizza\bin\Debug\netcoreapp3.1\Pizza.runtimeconfig.json
+C:\Users\anast\source\repos\Pizza\Pizza\bin\Debug\netcoreapp3.1\Pizza.runtimeconfig.dev.json
+C:\Users\anast\source\repos\Pizza\Pizza\bin\Debug\netcoreapp3.1\Pizza.dll
+C:\Users\anast\source\repos\Pizza\Pizza\bin\Debug\netcoreapp3.1\Pizza.pdb
+C:\Users\anast\source\repos\Pizza\Pizza\obj\Debug\netcoreapp3.1\Pizza.dll
+C:\Users\anast\source\repos\Pizza\Pizza\obj\Debug\netcoreapp3.1\Pizza.pdb
+C:\Users\anast\source\repos\Pizza\Pizza\obj\Debug\netcoreapp3.1\Pizza.genruntimeconfig.cache
